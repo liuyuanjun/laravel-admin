@@ -1,9 +1,9 @@
 {
-    "name": "encore/laravel-admin",
+    "name": "liuyuanjun/laravel-admin",
     "description": "laravel admin",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "form"],
-    "homepage": "https://github.com/z-song/laravel-admin",
+    "homepage": "https://github.com/liuyuanjun/laravel-admin",
     "license": "MIT",
     "authors": [
         {

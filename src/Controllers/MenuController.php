@@ -119,8 +119,8 @@ class MenuController extends Controller
             $form->text('uri', trans('admin.uri'));
             $form->multipleSelect('roles', trans('admin.roles'))->options(Role::all()->pluck('name', 'id'));
 
-            $form->display('created_at', trans('admin.created_at'));
-            $form->display('updated_at', trans('admin.updated_at'));
+//            $form->display('created_at', trans('admin.created_at'));
+//            $form->display('updated_at', trans('admin.updated_at'));
         });
     }
 
